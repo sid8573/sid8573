@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sid8573/make-a-pull-request/blob/master/Blue%20and%20Red%2072x36%20Landscape%20Voter%20Education%20Campaign%20Banner.png)]()
+
 
 <h3 align="center">Android Devloper && Web Devloper!!</h3>
 
